@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FCFS_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+177eeebea502f5c29c497f08c3eca778c762e9d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d96bca67796ff5c6c0a1e6cc70bea0ef875675cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("FCFS_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FCFS_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
